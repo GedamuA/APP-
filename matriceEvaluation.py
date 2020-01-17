@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
 """Description :
 """
-# talen@uestc 2019/11/13
+# Gedamu A.  2019/11/13
+# Center for future media lab 
 from __future__ import print_function, division, absolute_import, unicode_literals
 import pdb
 import glob
